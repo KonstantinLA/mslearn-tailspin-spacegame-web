@@ -1,4 +1,5 @@
 pool:
+  name: 'Microsoft-hosted-agent'
   vmImage: 'Ubuntu-16.04'
   demands:
     - npm
